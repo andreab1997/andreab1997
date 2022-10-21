@@ -40,6 +40,32 @@ institutions:
 </details>
 <details>
     <summary> <b> Education </b> </summary>
+
+## Education
+
+```yaml
+Master:
+  title: Master Degree in Theoretical Physics
+  university: Sapienza University of Rome
+  grade: 110 cum laude
+  start-date: September 2019
+  finish-date: October 2021
+  thesis:
+    title: Mass logarithms effects in Deep Inelastic Scattering and their resummation to all orders
+    supervisor: M. Bonvini
+
+Bachelor:
+  title: Bachelor Degree in Physics
+  university: Sapienza University of Rome
+  grade: 110 cum laude
+  start-date: September 2016
+  finish-date: October 2019
+```
+
+<p align="center">
+  <a href="https://www.uniroma1.it/en/pagina-strutturale/home"> <img src="https://raw.githubusercontent.com/andreab1997/andreab1997/master/assets/sapienza.png" height="100" alt="Sapienza University of Rome" /> </a>
+</p>
+
 </details>
 <details>
     <summary> <b> Academic Code Projects </b> </summary>
