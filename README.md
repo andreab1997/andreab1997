@@ -11,17 +11,27 @@ I'm Andrea Barontini, a theoretical physicist, a (wanna be) software developer b
 - Work &nbsp; <a href="https://www.linkedin.com/in/andrea-barontini/"><img
   src="https://raw.githubusercontent.com/andreab1997/andreab1997/master/assets/work.gif"
   height="30"/></a>
-<!--
-**andreab1997/andreab1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details>
+    <summary> <b> Current Position </b> </summary>
+</details>
+<details>
+    <summary> <b> Education </b> </summary>
+</details>
+<details>
+    <summary> <b> Academic Code Projects </b> </summary>
+</details>
+<details>
+    <summary> <b> Code Skills </b> </summary>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<a href="https://andreab1997.github.io">
+  <img src="https://raw.githubusercontent.com/andreab1997/andreab1997/master/assets/stats.gif" height="200" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=andreab1997&show_icons=true" />
+</a>
+</p>
+
