@@ -27,7 +27,7 @@ I'm Andrea Barontini, a theoretical physicist, a (wanna be) software developer b
 
 <p>
 <a href="https://andreab1997.github.io">
-  <img src="https://raw.githubusercontent.com/andreab1997/andreab1997/master/assets/stats.gif" height="200" />
+  <img src="https://raw.githubusercontent.com/andreab1997/andreab1997/master/assets/stats.gif" height="170" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
