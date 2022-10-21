@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/andreab1997/andreab1997/master/assets/spacer.png" width="30"/><img src="https://raw.githubusercontent.com/andreab1997/andreab1997/master/assets/logo.gif" height="50"/>
 
 <!--
 **andreab1997/andreab1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
