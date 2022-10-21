@@ -14,6 +14,29 @@ I'm Andrea Barontini, a theoretical physicist, a (wanna be) software developer b
 
 <details>
     <summary> <b> Current Position </b> </summary>
+
+## Current Position
+
+```yaml
+position: PhD
+supervisor: S. Forte
+start_date: November, 2021
+institutions:
+  university: Università degli Studi di Milano
+  affiliation: INFN
+  team: N3PDF
+  collaboration: NNPDF
+```
+
+<p align="center">
+  <a href="https://www.unimi.it/en"> <img src="https://raw.githubusercontent.com/andreab1997/andreab1997/master/assets/unimi_banner.png" height="60" alt="University of Milan" /> </a>
+  <img src="https://raw.githubusercontent.com/andreab1997/andreab1997/master/assets/spacer.png" width="40" />
+  <a href="https://www.mi.infn.it/it/"> <img src="https://raw.githubusercontent.com/andreab1997/andreab1997/master/assets/infn_logo.png" height="60" alt="INFN" /> </a>
+  <img src="https://raw.githubusercontent.com/andreab1997/andreab1997/master/assets/spacer.png" width="40" />
+  <a href="http://n3pdf.mi.infn.it/"> <img src="https://raw.githubusercontent.com/andreab1997/andreab1997/master/assets/n3pdf_logo.png" height="60" alt="N3PDF" /> </a>
+  <img src="https://raw.githubusercontent.com/andreab1997/andreab1997/master/assets/spacer.png" width="40" />
+  <a href="http://nnpdf.mi.infn.it/"> <img src="https://raw.githubusercontent.com/andreab1997/andreab1997/master/assets/nnpdf_logo.png" height="30" alt="NNPDF" /> </a>
+</p>
 </details>
 <details>
     <summary> <b> Education </b> </summary>
