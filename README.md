@@ -69,6 +69,27 @@ Bachelor:
 </details>
 <details>
     <summary> <b> Academic Code Projects </b> </summary>
+
+## Academic Code Projects
+
+```yaml
+name: Pineko - pineAPPL + EKO
+subject:
+  area: physics
+  topic: HEP - QCD
+supervisor: S. Forte
+collaborators:
+  - A. Candido
+  - F. Hekhorn
+description: |
+  WIP
+```
+<p align="center">
+    <a href="http://nnpdf.github.io/pineko"> <img src="https://raw.githubusercontent.com/NNPDF/pineko/master/docs/source/img/Logo.png" height="120" alt="pineko" /> </a>
+    <img src="https://raw.githubusercontent.com/andreab1997/andreab1997/master/assets/spacer.png" width="40" />
+    <a href="https://github.com/NNPDF/pineko"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=NNPDF&repo=pineko"  /> </a>
+</p>
+
 </details>
 <details>
     <summary> <b> Code Skills </b> </summary>
