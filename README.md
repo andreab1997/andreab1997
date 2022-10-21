@@ -85,9 +85,7 @@ description: |
   WIP
 ```
 <p align="center">
-    <a href="http://nnpdf.github.io/pineko"> <img src="https://raw.githubusercontent.com/NNPDF/pineko/master/docs/source/img/Logo.png" height="120" alt="pineko" /> </a>
-    <img src="https://raw.githubusercontent.com/andreab1997/andreab1997/master/assets/spacer.png" width="40" />
-    <a href="https://github.com/NNPDF/pineko"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=NNPDF&repo=pineko"  /> </a>
+    <a href="https://github.com/NNPDF/pineko"> <img src="https://raw.githubusercontent.com/NNPDF/pineko/master/docs/source/img/Logo.png" height="120" alt="pineko" /> </a>
 </p>
 
 </details>
